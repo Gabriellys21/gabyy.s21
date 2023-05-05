@@ -1,0 +1,24 @@
+margem :  1 ;
+    preenchimento :  0,5 ;
+}
+
+
+
+. cabecalho {
+    cor de fundo :  # FB5691 ;
+    cor :  #ffffff ; _
+    exibição : flexível;
+    justificar-conteúdo : espaço ao redor;
+    itens de alinhamento : centro;
+    preenchimento :  24 px  0 ;
+}
+
+. cabecalho-imagem {
+    largura :  10 % ;
+}
+
+. cabecalho-lista-item {
+    exibição : bloco em linha;
+    margem :  0  16 px ;
+    tamanho da fonte :  24 px ;
+}
