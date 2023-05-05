@@ -1,0 +1,19 @@
+@@ -0,0 +1,18 @@
+<!DOCTYPEhtml >
+< html  lang =" en " >
+< cabeça >
+    < meta  charset =" UTF-8 " >
+    < meta  http-equiv =" X-UA-Compatible " content =" IE=edge " >
+    < meta  name =" janela de visualização " conteúdo =" largura=largura do dispositivo, escala inicial=1,0 " >
+    < title > Segundo ano C </ title >
+
+</ cabeça >
+< corpo >
+    < cabeçalho >
+        < li > Página inicial </ li >
+        < li > Receitas </ li >
+        < li > Avaliações </ li >
+        < li > E-book </ li >
+    </ cabeçalho >
+</ corpo >
+</html> _ _
