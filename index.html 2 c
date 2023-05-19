@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>realizando sonhos</title>
+</head>
+
+<body>
+    
+</body>
+
+    <h1 class="titulo-principal">realizando sonhos</h1>
+        </header>
+        <img id="banner" src="banner.jpg">
+        <div class="principal">
+            <h2 class="titulo-centralizado">Sobre estetica</h2>
+     
+            <p>Localizada em irati pr <strong>realizando sonhos</strong> traz para você o melhor atendimento!</p>
+
+            <p id="missao"><em>Nossa missão é: <strong>"Proporcionar que voce se sinta bem com os tratamento para nossos clientes"</strong>.</em></p>
+
+            <p>Oferecemos cursos profissionais para que voce seja experientes . O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+        </div>
+
+        <div class="beneficios">
+            <h3 class="titulo-centralizado">Benefícios</h3>
+
+            <ul>
+                <li class="itens">Atendimento rápido </li>
+                <li class="itens">espaço com os equipamentos que voce precisa </li>
+                <li class="itens">Localização boa</li>
+                <li class="itens">Preços acessíveis</li>
+            </ul>
+
+            <
+
+        </div>
+    </body>
+</html>
+<section>
+    images.jpg 
+</section>
